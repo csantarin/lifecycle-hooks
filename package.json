@@ -1,5 +1,6 @@
 {
   "name": "lifecycle-hooks",
+  "description": "A React lifecycle hooks sandbox in React Native with functional components and Hooks",
   "version": "0.0.1",
   "private": true,
   "scripts": {
